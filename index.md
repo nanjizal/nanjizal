@@ -1,5 +1,5 @@
 ## Nanjizal
 
-[Summary](./Summary) of github projects
+[Summary](https://nanjizal.github.io/Summary) of github projects
 
-[Image Summary](nanjizal.github.io/Xperimental) different older Summary with images
+[Image Summary](https://nanjizal.github.io/Xperimental) different older Summary with images
