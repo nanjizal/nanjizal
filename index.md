@@ -1,5 +1,5 @@
 ## Nanjizal
 
-[Summary](nanjizal.github.io/Summary/README.md) of github projects
+[Summary](nanjizal.github.io/Summary) of github projects
 
-[Image Summary](nanjizal.github.io/Xperimental/README.md) different older Summary with images
+[Image Summary](nanjizal.github.io/Xperimental) different older Summary with images
